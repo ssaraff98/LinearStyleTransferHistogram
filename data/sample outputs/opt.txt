@@ -1,0 +1,13 @@
+----------------- Options ---------------
+                batchSize: 1                             
+              contentPath: data/content/                 
+                     cuda: True                          
+              decoder_dir: models/dec_r31.pth            
+                 fineSize: 256                           
+                    layer: r31                           
+                 loadSize: 256                           
+               matrixPath: models/r31.pth                
+                     outf: Artistic/                     
+                stylePath: data/style/                   
+                  vgg_dir: models/vgg_r31.pth            
+----------------- End -------------------
