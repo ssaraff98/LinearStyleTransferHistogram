@@ -1,7 +1,7 @@
 ## Learning Transformation Matrices for Artistic Universal Style Transfer
 **[[Implemented Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_Linear_Transformations_for_Fast_Image_and_Video_Style_Transfer_CVPR_2019_paper.pdf)**
 
-<img src="doc/images/1.png" height="150" hspace="5"><img src="doc/images/27.png" height="150" hspace="5"><img src="doc/images/1_27.png" height="150" hspace="5">
+<img src="doc/images/1.jpg" height="150" hspace="5"><img src="doc/images/27.jpg" height="150" hspace="5"><img src="doc/images/1_27.png" height="150" hspace="5">
 
 ## Prerequisites
 - [Pytorch](http://pytorch.org/)
